@@ -20,8 +20,8 @@
 
 
 <h2>Certifications</h2>
-- [Comptia Security+ 701] (https://www.credly.com/badges/30f4a60d-2750-453d-bde7-e1c5cd4ec0ff/public_url)
-- [Google Cybersecurity Professional Certificate] (https://www.credly.com/badges/f767e75c-965d-4437-bcf8-fa0d8f0d1f07/public_url)
+- [Comptia Security+ 701] (https://www.credly.com/badges/30f4a60d-2750-453d-bde7-e1c5cd4ec0ff/public_url) <br>
+- [Google Cybersecurity Professional Certificate] (https://www.credly.com/badges/f767e75c-965d-4437-bcf8-fa0d8f0d1f07/public_url) <br>
 - [Google IT Support Professional Certificate] (https://www.credly.com/badges/286afa3c-c541-48b1-9f6b-b8288015450b/public_url)
 
 
