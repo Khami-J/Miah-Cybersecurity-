@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [Cisco Home Network] https://github.com/Khami-J/Cisco-Home-Network
-
+- [Linux System Hardening & Audit Lab] 
 
 <h2>Certifications</h2>
 
